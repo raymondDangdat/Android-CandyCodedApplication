@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="First task">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,6 +151,14 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="First task">
+      <created>1601058286357</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601058286357</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -158,10 +170,10 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="1264" y="272" width="374" height="582" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1601057634810" />
-    <state x="860" y="136" width="1050" height="854" key="CommitChangelistDialog2" timestamp="1601058189875">
+    <state x="860" y="136" width="1050" height="854" key="CommitChangelistDialog2" timestamp="1601058285472">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="860" y="136" width="1050" height="854" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1601058189875" />
+    <state x="860" y="136" width="1050" height="854" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1601058285472" />
     <state width="973" height="275" key="GridCell.Tab.0.bottom" timestamp="1601058190032">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
@@ -178,5 +190,9 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="973" height="275" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1601058190032" />
+    <state x="1051" y="295" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1601058300338">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1051" y="295" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1601058300338" />
   </component>
 </project>
